@@ -1,4 +1,5 @@
 // qsec/icons.jsx — consistent minimal line-icon set (stroke 1.5, rounded)
+import React from 'react';
 const { createElement: h } = React;
 
 function Svg({ size = 24, children, stroke = 1.6, ...rest }) {

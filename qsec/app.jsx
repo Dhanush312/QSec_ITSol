@@ -1,4 +1,5 @@
 // qsec/app.jsx — composition + scroll-reveal + parallax + Tweaks
+import React from 'react';
 const { useState: useS, useEffect: useE, useRef: useR } = React;
 
 const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
@@ -123,4 +124,4 @@ function App() {
   );
 }
 
-ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+export default App;

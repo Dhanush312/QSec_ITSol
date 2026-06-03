@@ -1,4 +1,5 @@
 // qsec/sections2.jsx — Services, About, Why, Testimonials, Contact, Footer, WhatsApp
+import React from 'react';
 const { useState: useState2 } = React;
 
 /* ============================ SERVICES ============================ */

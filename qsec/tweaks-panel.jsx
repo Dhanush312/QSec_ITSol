@@ -1,6 +1,7 @@
 
 /* BEGIN USAGE */
 // tweaks-panel.jsx
+import React from 'react';
 // Reusable Tweaks shell + form-control helpers.
 // Exports (to window): useTweaks, TweaksPanel, TweakSection, TweakRow, TweakSlider,
 //   TweakToggle, TweakRadio, TweakSelect, TweakText, TweakNumber, TweakColor, TweakButton.

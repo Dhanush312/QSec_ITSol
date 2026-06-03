@@ -1,4 +1,5 @@
 // qsec/sections.jsx — content data + NetworkVisual + Nav + Hero
+import React from 'react';
 const { useState, useEffect, useRef } = React;
 
 /* ============================ CONTENT ============================ */
